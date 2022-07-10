@@ -6,7 +6,7 @@ def hash_senha(senha):
 add_senha = '1234'
 hash_senha1 = hash_senha(add_senha)
 
-print('Return Function hash_senha: ' + hah_senha1)
+print('Return Function hash_senha: ' + hash_senha1)
 
 def soma (num,num1):
     result = num + num1

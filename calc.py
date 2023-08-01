@@ -1,5 +1,5 @@
 import hashlib
-#from tir import Webapp
+from tir import Webapp
 import os
 
 

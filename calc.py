@@ -1,5 +1,5 @@
 import hashlib
-from tir import Webapp
+#from tir import Webapp
 
 def hash_senha(senha):
   return hashlib.sha256(senha.encode()).hexdigest()
